@@ -18,8 +18,7 @@
 			"entities": {
 				"EN_CLIENTEAK_171": [
 					"AT50_CEDULAMN171",
-					"AT61_NOMBREUU171",
-					"AT69_APELLIDO171"
+					"AT61_NOMBREUU171"
 				]
 			},
 			"externalEntities": {
@@ -29,7 +28,6 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_MMOII_APELLIDOO_70161",
 				"LBL_MMOII_CEDULAGZU_92005",
 				"LBL_MMOII_NOMBREBTE_46094"
 			],
