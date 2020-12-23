@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2020",
+	"moduleId": "MMOII",
+	"modules": [
+		{
+			"moduleId": "MMOII",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMZ",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "Cartera",
+	"subModuleId": "SSMMZ"
+}
