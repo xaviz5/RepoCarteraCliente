@@ -12,6 +12,30 @@
 		}
 	},
 	"Forms": {
+		"T_MMOIIKSOYGIZT_156": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEAK_171": [
+					"AT61_NOMBREUU171",
+					"AT69_APELLIDO171"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMOII_APELLIDOO_17622",
+				"LBL_MMOII_NOMBREQFD_37997"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

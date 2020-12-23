@@ -1,10 +1,10 @@
 {
-    "MMOII": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMOII": {
+		"LBL": {
+			"LBL_MMOII_APELLIDOO_17622": "Apellido",
+			"LBL_MMOII_NOMBREQFD_37997": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }

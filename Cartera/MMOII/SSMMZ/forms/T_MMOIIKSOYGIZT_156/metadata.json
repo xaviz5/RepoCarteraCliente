@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CLIENTEAK_171",
+			"isContextEntity": null,
+			"moduleId": "MMOII",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
