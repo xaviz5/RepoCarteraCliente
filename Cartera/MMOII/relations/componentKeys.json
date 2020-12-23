@@ -6,5 +6,18 @@
 		"EN_CUENTAVSP_941": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMZ": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMOIIXZLKIGLH_364": {
+				"name": "formCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

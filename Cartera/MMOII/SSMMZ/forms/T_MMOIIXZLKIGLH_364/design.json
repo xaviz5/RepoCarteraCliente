@@ -1,0 +1,233 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "MMOII",
+		"subModuleId": "SSMMZ",
+		"taskId": "T_MMOIIXZLKIGLH_364",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_CLIENTEPIS_470364",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../MMOII/relations/componentKeys.json#/SSMMZ/Forms/T_MMOIIXZLKIGLH_364/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "MMOII",
+				"subModuleId": "SSMMZ",
+				"taskId": "T_MMOIIXZLKIGLH_364",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_CLIENTEPIS_470364"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "formCliente",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../MMOII/entities/EN_CLIENTEAK_171.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_CLIENTEHDR_602171",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1398",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMOII/entities/EN_CLIENTEAK_171.json#/attributes/AT69_APELLIDO171"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMOII/assets/languages/MMOII.json#/MMOII/LBL/LBL_MMOII_APELLIDOO_70161"
+									},
+									"labelId": "LBL_MMOII_APELLIDOO_70161",
+									"moduleId": "MMOII"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOPCKNZOT_584171",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMOII/entities/EN_CLIENTEAK_171.json#/attributes/AT50_CEDULAMN171"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMOII/assets/languages/MMOII.json#/MMOII/LBL/LBL_MMOII_CEDULAGZU_92005"
+									},
+									"labelId": "LBL_MMOII_CEDULAGZU_92005",
+									"moduleId": "MMOII"
+								},
+								"maxRecords": null,
+								"name": "cedula",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_CEDULASRHROIEHR_987171",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMOII/entities/EN_CLIENTEAK_171.json#/attributes/AT61_NOMBREUU171"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMOII/assets/languages/MMOII.json#/MMOII/LBL/LBL_MMOII_NOMBREBTE_46094"
+									},
+									"labelId": "LBL_MMOII_NOMBREBTE_46094",
+									"moduleId": "MMOII"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRERZUYKCHVK_777171",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_CLIENTEDNE_171"
+				},
+				"metadataVersion": "7.2.0.2020",
+				"modules": [
+					{
+						"moduleId": "MMOII"
+					}
+				],
+				"name": "View of formCliente"
+			}
+		}
+	]
+}

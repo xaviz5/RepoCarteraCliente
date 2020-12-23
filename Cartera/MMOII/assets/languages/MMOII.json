@@ -1,10 +1,11 @@
 {
-    "MMOII": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMOII": {
+		"LBL": {
+			"LBL_MMOII_APELLIDOO_70161": "Apellido",
+			"LBL_MMOII_CEDULAGZU_92005": "Cedula",
+			"LBL_MMOII_NOMBREBTE_46094": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }
